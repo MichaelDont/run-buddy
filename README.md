@@ -12,3 +12,5 @@ https://michaeldont.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Michael Astalos
+
+### ©️2019 Run Buddy, Inc 
