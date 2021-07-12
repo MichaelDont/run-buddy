@@ -1,14 +1,14 @@
 # Run Buddy Inc.
 
 ## Purpose
-A wesite that offers fitness training services.
+A wesite that offers fitness training services. (Made to practicing HTML and CSS)
 
 ## Built With 
 * HTML
-* CASS
+* CSS
 
 ## Website
-https://michaeldont.github.io/run-buddy/
+https://mtastalos.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Michael Astalos
